@@ -1,0 +1,9 @@
+{
+    "require": {
+        "hackzilla/password-generator": "^1.4",
+        "phpoffice/phpspreadsheet": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "./"}
+    }
+}
